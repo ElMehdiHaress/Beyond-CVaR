@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+dist/
+build/
+.eggs/
+
+# Tools
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# OS
+.DS_Store
+

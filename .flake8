@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 100
+extend-ignore = F401,E265,E302,W293,E731,E231,E702,E703,E501,E265,E225,E128,E203,E266,E501,W503,E222,E201,E202,E262,E305,E402,E221
+per-file-ignores =
+    src/beyond_cvar/*.py: F401
+
